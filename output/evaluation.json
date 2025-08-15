@@ -1,0 +1,25 @@
+{
+  "evaluation": {
+    "Footwork": {
+      "score": 4,
+      "feedback": "Good footwork"
+    },
+    "Head Position": {
+      "score": 4,
+      "feedback": "Head positioning"
+    },
+    "Swing Control": {
+      "score": 10,
+      "feedback": "Swing control"
+    },
+    "Balance": {
+      "score": 4,
+      "feedback": "Balance control"
+    },
+    "Follow-through": {
+      "score": 7,
+      "feedback": "Work on follow-through"
+    }
+  },
+  "skill_grade": "Intermediate"
+}

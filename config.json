@@ -1,0 +1,12 @@
+{
+  "thresholds": {
+    "elbow": [90, 130],
+    "spine": [5, 25],
+    "head_knee_dx": 0.05,
+    "foot_angle": 30
+  },
+  "bat_detection": {
+    "hsv_low": [10, 50, 50],
+    "hsv_high": [30, 255, 255]
+  }
+}
