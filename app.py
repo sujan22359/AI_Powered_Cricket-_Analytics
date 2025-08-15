@@ -23,7 +23,7 @@ if process_btn:
     else:
         if uploaded_file:
             # Save uploaded file to temp
-            video_path = os.path.join("tmp", uploaded_file.name)
+            video_path = os.path.join("input_video", uploaded_file.name)
             with open(video_path, "wb") as f:
                 f.write(uploaded_file.read())
             st.info(f"Using uploaded file: {uploaded_file.name}")
