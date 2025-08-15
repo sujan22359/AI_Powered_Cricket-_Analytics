@@ -20,8 +20,3 @@ The project includes a **Streamlit web app** for uploading videos or analyzing Y
 - 🖥 **Streamlit Web Interface**  
   - Watch annotated video preview in the browser
   - Download video, JSON metrics, and PDF report
-
-
-
-3.**Install dependencies
-## 📂 Project Structure
